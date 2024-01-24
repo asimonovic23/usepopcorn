@@ -127,7 +127,6 @@ FULL STAR
   />
 </svg>
 
-
 EMPTY STAR
 
 <svg
